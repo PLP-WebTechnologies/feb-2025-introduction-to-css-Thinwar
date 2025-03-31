@@ -1,0 +1,27 @@
+/* Styling Header using ID */
+#header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border-bottom: 5px solid #333;
+  }
+  
+  /* Styling Paragraph using Class */
+  .paragraph {
+    font-family: 'Arial, sans-serif';
+    font-size: 18px;
+    line-height: 1.5;
+    color: #555;
+    margin: 20px;
+  }
+  
+  /* Styling Image using ID */
+  #styled-image {
+    width: 300px;
+    height: auto;
+    border: 5px solid #888;
+    margin: 20px auto;
+    display: block;
+  }
+  
